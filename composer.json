@@ -1,11 +1,11 @@
 {
-    "name": "kayue/kayue-essence-bundle",
+    "name": "filmforgedev/kayue-essence-bundle",
     "type": "symfony-bundle",
     "description": "This bundle integrates the Essence library (an oEmbed library) into Symfony 2.",
     "keywords":    [
         "oembed", "media", "youtube", "vimeo", "symfony", "symfony2"
     ],
-    "homepage": "http://github.com/kayue/KayueEssenceBundle",
+    "homepage": "https://github.com/filmforgedev/KayueEssenceBundle",
     "license": "MIT",
 
     "require": {
